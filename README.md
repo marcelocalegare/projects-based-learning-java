@@ -5,12 +5,11 @@ Repositório dedicado aos meus estudos e à minha evolução na linguagem Java.
 
 ## Conteúdos estudados
 
-1. Fundamentos da linguagem
-2. Entrada e saída de dados com scanner
-3. Estruturas condicionais
+1. Introdução à linguagem Java
+2. Estruturas Sequenciais
+3. Estruturas Condicionais
 4. Estruturas de Repetição
-5. Validação de dados e controle de fluxo
-6. Arrays (vetores)
+5. Funções
 
 ---
 
