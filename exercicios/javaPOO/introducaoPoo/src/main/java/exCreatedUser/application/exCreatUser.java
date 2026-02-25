@@ -14,7 +14,7 @@ public class exCreatUser {
         System.out.print("Enter Tax: ");
         user.tax = scanner.nextDouble();
 
-
+        System.out.println(user);
 
 
 

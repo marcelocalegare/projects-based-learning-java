@@ -13,6 +13,12 @@ public class CreatUser {
     public double increaseSalary(){
         return (grossSalary * (percentage / 100)) - tax;
     }
+    
+    public String toString(){
+        return "Name: " + name + "\nGross Salary: " + grossSalary + "\nTax: " + tax;
+    }
+
+
 
 
 
