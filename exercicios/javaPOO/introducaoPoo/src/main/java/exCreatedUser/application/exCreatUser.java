@@ -16,6 +16,11 @@ public class exCreatUser {
 
         System.out.println(user);
 
+        System.out.print("Wich percentage to increase salary? ");
+        user.percentage = scanner.nextDouble();
+
+        System.out.println("Upper Data: " + user);
+
 
 
 
